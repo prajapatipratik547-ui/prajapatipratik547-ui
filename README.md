@@ -330,7 +330,16 @@ Developing practical AI-powered applications while building foundations in softw
 
 </div>
 
----
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/prajapatipratik547-ui/prajapatipratik547-ui/output/github-contribution-grid-snake.svg" width="100%">
+
+</div>
+
+<br>
 
 
 
