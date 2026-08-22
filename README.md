@@ -154,35 +154,7 @@ An AI-powered interactive assistant designed to help users understand the electi
 ---
 
 <details>
-<summary><b>02 — JalDhristi</b></summary>
-
-### JalDhristi — AI-Powered Water Contamination Platform
-
-A web-based platform focused on water contamination monitoring, citizen reporting and environmental awareness.
-
-| Category    | Details                                                            |
-| ----------- | ------------------------------------------------------------------ |
-| Stack       | Web Technologies, Gemini, AI-powered workflows                     |
-| Scale       | Hackathon-based environmental technology platform                  |
-| Performance | Designed for responsive citizen-facing interaction                 |
-| Security    | Designed around controlled application workflows                   |
-| Impact      | Supports faster reporting and awareness around water contamination |
-| Repository  | Project repository to be added                                     |
-
-### Engineering Highlights
-
-* Designed citizen-facing contamination reporting workflows.
-* Designed government-facing monitoring workflows.
-* Explored AI-powered interaction for environmental information.
-* Incorporated monitoring and geographical visualization concepts.
-* Developed as part of a team-based hackathon project.
-
-</details>
-
----
-
-<details>
-<summary><b>03 — AI Tips Auto-Poster</b></summary>
+<summary><b>02 — AI Tips Auto-Poster</b></summary>
 
 ### AI Tips Auto-Poster — AI Content Automation
 
@@ -209,7 +181,7 @@ An automated workflow designed to generate AI and technology-related content and
 ---
 
 <details>
-<summary><b>04 — Technical Documentation Generator</b></summary>
+<summary><b>03 — Technical Documentation Generator</b></summary>
 
 ### Technical Documentation Generator — AI Developer Tool
 
