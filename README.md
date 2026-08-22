@@ -195,7 +195,7 @@ An automated workflow designed to generate AI and technology-related content and
 | Performance | Reduces repetitive manual publishing tasks  |
 | Security    | API-based controlled integrations           |
 | Impact      | Automates content generation and publishing |
-| Repository  | Project repository to be added              |
+| Repository | [View Repository](https://github.com/prajapatipratik547-ui/ai-tips-auto-poster) |
 
 ### Engineering Highlights
 
