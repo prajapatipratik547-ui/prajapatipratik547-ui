@@ -27,7 +27,12 @@
 <img src="https://img.shields.io/badge/GitHub-Profile-4C1D95?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://portfolio-pratik-projects2.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-View%20My%20Portfolio-6D28D9?style=for-the-badge&labelColor=111827"/>
+</a>
+
 <br/><br/>
+
 
 <img src="https://komarev.com/ghpvc/?username=prajapatipratik547-ui&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/prajapatipratik547-ui?style=for-the-badge&color=7C3AED&labelColor=111827&label=FOLLOWERS"/>
