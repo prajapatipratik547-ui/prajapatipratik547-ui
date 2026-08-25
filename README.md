@@ -199,7 +199,7 @@ An AI-agent concept designed to analyze software codebases and generate technica
 | Performance | Designed to reduce repetitive documentation work                  |
 | Security    | Intended for controlled codebase processing                       |
 | Impact      | Improves consistency and accessibility of technical documentation |
-| Repository  | Project repository to be added                                    |
+| Repository  | [View Repository](https://github.com/prajapatipratik547-ui/ai-technical-documentation-generator) |
 
 ### Engineering Highlights
 
