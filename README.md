@@ -213,6 +213,38 @@ An AI-agent concept designed to analyze software codebases and generate technica
 
 ---
 
+<details>
+<summary><b>04 — ResearchLens AI</b></summary>
+
+### ResearchLens AI — AI Research Intelligence Platform
+
+*From scattered sources to evidence-backed insights.* A full-stack hackathon project: upload research documents (PDF, DOCX, TXT), ask questions answered only from those sources, and get cited findings, an evidence matrix, contradictions, research gaps and an exportable research brief.
+
+| Category    | Details                                                                                 |
+| ----------- | --------------------------------------------------------------------------------------- |
+| Stack       | React, TypeScript, Vite, Node.js, Express, MongoDB Atlas, Google Gemini API             |
+| Scale       | Full-stack multi-document RAG web application, deployed on Vercel + Render              |
+| Performance | Parallel AI analysis calls; background document processing                              |
+| Security    | JWT auth, bcrypt, Zod validation, per-user ownership checks; AI key kept server-side only |
+| Impact      | Turns scattered sources into verifiable, cited research insights                        |
+| Live Demo   | [Open App](https://researchlens-ai-frontend.vercel.app)                                 |
+| Repository  | [View Repository](https://github.com/prajapatipratik547-ui/researchlens-ai)             |
+
+### Engineering Highlights
+
+* Built a **RAG pipeline**: text extraction, chunking, retrieval and grounded answers from uploaded sources.
+* Every citation shows the **file name and page**, and quotes are verified word for word against the source.
+* Answers **"Insufficient evidence"** instead of guessing when the sources don't cover a question.
+* One-click analysis: **key findings, themes, contradictions, research gaps** and unanswered questions.
+* **Evidence matrix** checking each central claim against every source.
+* Generates a structured, cited **Markdown research brief**.
+* Confidence scores capped by how many independent sources back a claim.
+* Pluggable AI provider layer (Gemini, with Groq / OpenAI-compatible fallback).
+
+</details>
+
+---
+
 ## EXPERIENCE
 
 ### AI / ML & Software Development — Project & Hackathon Experience
