@@ -239,7 +239,7 @@ An AI-agent concept designed to analyze software codebases and generate technica
 * **Evidence matrix** checking each central claim against every source.
 * Generates a structured, cited **Markdown research brief**.
 * Confidence scores capped by how many independent sources back a claim.
-* Pluggable AI provider layer (Gemini, with Groq / OpenAI-compatible fallback).
+* Pluggable AI provider layer: Gemini by default, switchable to Groq or any OpenAI-compatible API.
 
 </details>
 
